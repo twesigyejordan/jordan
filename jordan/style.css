@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bet{
+    background: url(nfl.jpg);
+    height: 100vh;
+    
+}
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+}
+a{
+    color: gold;
+    
+}
+.rat{
+    background-color: blue;
+    height: 100vh;
+}
+table{
+    color: blue;
+}
+     
+.ted{
+    background-color:black;
+    height:100vh;
+}
+table{
+    color: green;
+}
+.jordan{
+    background-color: black;
+    height: 100vh;
+}
+p{
+    color: white;
+}
+.guy{
+    width: 100%;
+    background-image: url(joe.jpg);
+    height: 100vh;
+    
+}
+
+.bro{
+    background-image:url(aaron.jpg);
+    height: 100vh;
+}
+
+.grey{
+    background-image:url(pm.jpg);
+    height: 100vh;
+}
+
+.fred{
+    background-image:url(lj.jpg);
+    height: 100vh;
+}
+
+.was{
+    background-image: url(ja.jpg);
+    height: 100vh;
+}
+
+.tre{
+    background-image: url(jimmy.jpg);
+    height: 100vh;
+}
+
+.dre{
+    background-image: url(jh.jpg);
+    height: 100vh;
+}
+
+.too{
+    background-image: url(dp.jpg);
+    height: 100vh;
+}
+table{
+    color:white;
+}
+
+
+
+
